@@ -171,23 +171,3 @@ This script is only for responsible, authorised use. You are responsible for you
 ## Also see
 
 Pentmenu is available as a [package](https://archstrike.org/packages/pentmenu) on Arch Linux. Big love to [ArchStrike](https://archstrike.org/) and [Parrot linux](https://www.parrotsec.org/).
-
-
-## Donations
-
-Donations are accepted in coin:
-
-Bitcoin:
-```
-1E5S4acQmjky84HFzF9oQVy23UbG2LoXiy
-```
-
-Burstcoin:
-```
-BURST-C8T7-4PQX-85ZH-CJ2W3
-```
-
-Etherium:
-```
-0x902397d9581A7f4B856B71C2Ea8A5e974224b540
-```
